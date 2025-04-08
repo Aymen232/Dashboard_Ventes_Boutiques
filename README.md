@@ -32,4 +32,3 @@ Colonnes clés :
 - Visualiser la performance géographique
 - Maîtriser les graphiques combinés et les indicateurs de tendance.
 - Structurer l’analyse en onglets thématiques pour améliorer la lisibilité et la navigation dans le rapport.
-- 
