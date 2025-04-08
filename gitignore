@@ -1,0 +1,35 @@
+# Fichiers générés par Power BI Desktop (à ne pas exclure si utiles)
+*.pbix~  # Fichiers temporaires de Power BI
+
+# Systèmes d'exploitation
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Visual Studio Code / éditeurs
+.vscode/
+.idea/
+*.code-workspace
+
+# Fichiers temporaires et de cache
+*.log
+*.tmp
+*.bak
+
+# Jupyter notebooks (au cas où)
+.ipynb_checkpoints/
+
+# Dossiers perso ou exports locaux
+__pycache__/
+.env
+.env.*
+*.zip
+
+# Fichiers Excel temporaires
+~$*.xlsx
+~$*.xls
+
+# Autres fichiers sensibles
+secrets.*
+credentials.*
